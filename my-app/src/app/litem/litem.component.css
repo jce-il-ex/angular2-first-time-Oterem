@@ -1,0 +1,9 @@
+
+.baloon
+{
+   border: solid 3px;
+   border-color: red;
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+}
